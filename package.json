@@ -20,9 +20,9 @@
   "homepage": "https://github.com/kenneyhe2/action-k3s#readme",
   "dependencies": {
     "node-fetch": "latest",
-    "@action/core": "latest",
-    "@action/exec": "latest",
-    "@action/github": "latest",
+    "@actions/core": "latest",
+    "@actions/exec": "latest",
+    "@actions/github": "latest",
     "execa": "latest"
   }
 }

@@ -12,7 +12,7 @@ version of k3s
 * kubeconfig: Kubeconfig location 
 ## Example usage
 ```yaml
-- uses: debianmaster/actions-k3s@master
+- uses: kenneyhe2/actions-k3s@master
   id: k3s
   with:
     version: 'latest'

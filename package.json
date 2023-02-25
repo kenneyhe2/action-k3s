@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/debianmaster/actions-k3s.git"
+    "url": "git+https://github.com/kenneyhe2/actions-k3s.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/debianmaster/actions-k3s/issues"
+    "url": "https://github.com/kenneyhe2/actions-k3s/issues"
   },
-  "homepage": "https://github.com/debianmaster/actions-k3s#readme",
+  "homepage": "https://github.com/kenneyhe2/actions-k3s#readme",
   "dependencies": {
     "node-fetch": "latest",
     "@actions/core": "latest",
